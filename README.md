@@ -1,14 +1,19 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aashwin+Sharma!;" />
+<h1 align="">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aashwin+Sharma!;" />
 </h1>
 
-<h3 align="center">A Self Taught Penetration Tester 👨‍💻</h3>
+<h3 align="">A Self Taught Penetration Tester 👨‍💻</h3>
+<br/>
+
+![](https://media1.tenor.com/m/3HrIbcsMx-8AAAAC/f-society-mask.gif)
 
 <br/>
 
-
 # 💫 About Me
-🔭 I’m currently working on Windows Pentesting<br>🌱 I’m currently learning Active Directory<br>💬 Ask me about Ethical Hacking, Cybersecurity and Red Teaming.<br>⚡ Fun fact I love Gaming 🎮 
+🔭 I’m currently working on Windows Pentesting<br>
+🌱 I’m currently learning Active Directory<br>
+💬 Ask me about Ethical Hacking, Cybersecurity and Red Teaming.<br>
+⚡ Fun fact I love Gaming 🎮 
 <br/><br/>
 
 # 🌐 Socials
