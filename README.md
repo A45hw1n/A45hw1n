@@ -10,10 +10,10 @@
 <br/>
 
 # 💫 About Me
-🔭 I’m currently working on Windows Pentesting<br>
-🌱 I’m currently learning Active Directory<br>
-💬 Ask me about Ethical Hacking, Cybersecurity and Red Teaming.<br>
-⚡ Fun fact I love Gaming 🎮 
+**🔭 I’m currently working on Windows Pentesting**<br>
+**🌱 I’m currently learning Active Directory**<br>
+**💬 Ask me about Ethical Hacking, Cybersecurity and Red Teaming.**<br>
+**⚡ Fun fact I love Gaming 🎮** 
 <br/><br/>
 
 # 🌐 Socials
