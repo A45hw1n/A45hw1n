@@ -18,7 +18,7 @@
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashwins29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashwin-sharma-a20158231) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/445hw1n) <br>[![HackTheBox](https://www.hackthebox.com/badge/image/886877)](https://app.hackthebox.com/profile/886877)
-[![TryHackMe]("https://tryhackme.com/api/v2/badges/public-profile?userPublicId=630288")](https://tryhackme.com/p/A45hw1n)
+[![TryHackMe]("https://tryhackme-badges.s3.amazonaws.com/A45hw1n.png")](https://tryhackme.com/p/A45hw1n)
 <br/><br/>
 
 # ⚒️ Languages-Frameworks-Tools 
